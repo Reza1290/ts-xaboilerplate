@@ -1,0 +1,1 @@
+export interface IChangePasswordRequestDTO { userId: string; oldPassword_DoNotLog: string; newPassword_DoNotLog: string; }
